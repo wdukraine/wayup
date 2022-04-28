@@ -1,0 +1,46 @@
+body {
+	font-size: 20px;
+}
+
+h1 {
+	color: red;
+}
+
+.first {
+	background: blue;
+	color: #ffffff;
+	width: 150px;
+	height: 105px;
+
+	margin-bottom: 150px;
+}
+
+span {
+	color: red;
+}
+
+
+h2 {
+	color: #fff;
+	background: green;
+	padding: 10px;
+}
+
+.second {
+	color: #fff;
+	background: green;
+	padding: 50px;
+}
+
+.third {
+	text-indent: 3em;
+}
+
+.block {
+	font-size: 30px;
+}
+
+li {
+	border: 2px solid black;
+}
+
